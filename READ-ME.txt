@@ -1,0 +1,9 @@
+  =>  Template Name    : IT KELAS TERBUKA
+
+  =>  Template Link    : https://it-kelasterbuka.web.app/
+
+  =>  Template License : https://it-kelasterbuka.web.app/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML CSS JS
+
+  =>  Author Website   : Ahmad Randi
